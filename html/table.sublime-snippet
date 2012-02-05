@@ -1,0 +1,18 @@
+<snippet>
+  <content><![CDATA[<table>
+  <thead>
+    <tr>
+      <th>$0</th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>]]></content>
+  <tabTrigger>table</tabTrigger>
+  <scope>text.html</scope>
+</snippet>

@@ -1,0 +1,32 @@
+<snippet>
+	<content><![CDATA[<!DOCTYPE html>
+<html>
+<head>
+<title>$1</title>
+<meta charset=utf-8 />
+<meta http-equiv="keywords" content="" />
+<meta http-equiv="description" content="" />
+<!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
+<!--[if lt IE 9]>
+  <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+</head>
+<body>
+	<header id="header">
+
+	</header>
+
+	<div id="content">
+		
+	</div>
+
+	<footer id="footer">
+
+	</footer>
+
+	<script src="//code.jquery.com/jquery-latest.min.js"></script>
+</body>
+</html>]]></content>
+	<tabTrigger>html5</tabTrigger>
+	<scope>text.html</scope>
+</snippet>
