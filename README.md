@@ -18,5 +18,5 @@ And clone the repo:
 ###Manually
 
 * Download the .zip file from the GitHub downloads modal
-* Unzip the files and rename the folder to "sublime-snippets"
+* Unzip the files and rename the folder to "custom_snippets"
 * Copy the folder to your Sublime Text 2 user packagers directory (`~/Library/Application Support/Sublime Text 2/Packages/User/)
