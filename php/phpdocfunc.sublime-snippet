@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[/**
+ * Method description here.
+ * @param $1
+ * @return void
+ */]]></content>
+  <tabTrigger>/*</tabTrigger>
+  <scope>source.php</scope>
+  <description>phpdocfunc</description>
+</snippet>
